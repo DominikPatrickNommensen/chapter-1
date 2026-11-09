@@ -4,6 +4,7 @@ __pycache__/
 
 Data/**
 !Data/**/
+!Data/.gitkeep
 !Data/**/.gitkeep
 
 *.nc
