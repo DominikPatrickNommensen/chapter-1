@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+
+
+Data/**
+!Data/**/
+!Data/**/.gitkeep
+
+*.nc
+*.zarr
+*.pdf
+RaPP-data/
+extract-topo/01_topograhphy_BACKUP.ipynb
+paper-plots/dune_atlas.nc.aux.xml
+paper-plots/look-plots-Backup.ipynb
