@@ -1,7 +1,7 @@
 # Australian dune whorl code
 This code allows to extract dune crest lines for the Australian dune whorl and further analysis. It is part of Dominik Nommensen's PhD thesis chapter 1 and the publication "Inferred vegetation during Australia’s dune whorl formation" (currently in submission). Co-authors: Jimmy Daynac and Andrew Gunn.
 
-Some data can be accessed via zenodo (link will be provided soon). Other data can be provided upon request.
+The extracted crestlines and the main netcdf file of this work can be accessed via zenodo (link will be provided soon). Other data can be provided upon request (dominik.nommensen@monash.edu).
 
 ## Structure
 Below is the general structure of the repository and the order in which to use the notebooks. This repo does not contain the majority of the files.
@@ -11,7 +11,7 @@ Below is the general structure of the repository and the order in which to use t
 │   ├── Copernicus_OpenTopo_Australia
 │   │   └── COP30 topograhy data
 │   ├── Crestlines
-│   │   └── dune whorl related shapefiles and CSVs
+│   │   └── dune whorl related shapefiles and CSVs (crest lines available on Zenodo)
 │   ├── Daynac_dune_mask
 │   │   └── Australian dune mask (raster) based on Daynac et al. 2024
 │   ├── Netcdfs
@@ -45,7 +45,7 @@ Below is the general structure of the repository and the order in which to use t
 │   ├── download_opentopo.ipynb
 │   └── GetOpenTopo.py
 └── paper-plots
-    ├── dune_atlas.nc
+    ├── dune_atlas.nc (available on Zenodo)
     ├── look-plots.ipynb
     ├── RaPP-andrew.nc
     ├── example_cell
