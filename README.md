@@ -49,7 +49,7 @@ Below is the general structure of the repository and the order in which to use t
     ├── look-plots.ipynb
     ├── RaPP-andrew.nc
     ├── example_cell
-        └── raster and vector data for example grid cell
+        └── raster and vector data of example grid cell
     └── paper_ready_plots
         └── png and pdf versions of figures
 ```
